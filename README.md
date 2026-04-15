@@ -42,19 +42,23 @@ Olá, sou conhecido como **Invisível**, ou para os mais próximos, **Inv.** Des
 ### <img src="./assets/piv-logo-sem-piv.png" height="25"> PIV Bot
 > #### Um notório bot de raid
 - Meu projeto principal, contando com **+170.000 servidores**
-- Funções exclusivas e poderosas
+- Funções exclusivas e poderosas que não tem em nenhum outro bot
 - Sistema de recuperação de servidores
 - Suporte a múltiplos idiomas (🇧🇷/🇺🇸/🇪🇸)
-- Plano premium com funções exclusivas
+- Extremamente otimizado, aguentando várias raids simultâneas sem cair
+- Ótimo design e experiência de usuário
+- Plano premium com funcionalidades exclusivas
 
     </td>
     <td width="50%" valign="top">
 
 ### <img src="./assets/hbot.png" height="25"> H Bot
 > #### Bot da minha comunidade
-- Bot privado para necessidades pessoais
-- Sistema de cargo automático por status/BIO
-- Minigames: Connect 4, Minesweeper
+- Bot privado, já que uso ele para as minhas necessidades
+- Coisas que nenhum outro bot faz, o H Bot faz
+- Sistema de cargo automático por status e BIO
+- Minigames interativos: Connect 4, Minesweeper
+- Outas funções de segurança e praticidade
 - Enigma secreto 🤫
 
     </td>
@@ -64,20 +68,25 @@ Olá, sou conhecido como **Invisível**, ou para os mais próximos, **Inv.** Des
 
 ### 🌎 [pivbot.com](https://pivbot.com)
 > #### Site do ecossistema PIV
-- Central de informações de tudo da PIV
-- [/commands](https://pivbot.com/commands) - Lista de comandos
-- [/premium](https://pivbot.com/premium) - Vantagens do plano
+- Central de informações de tudo dos bots da PIV
+- **[/commands](https://pivbot.com/commands)** - Lista completa de comandos de todos os bots PIV
+- **[/premium](https://pivbot.com/premium)** - Recursos exclusivos e vantagens do plano premium
+- **[docs.pivbot.com](https://docs.pivbot.com/starting)** - Documentação de todas as funcionalidades do bot
 - Interface intuitiva e responsiva
+
 
     </td>
     <td width="50%" valign="top">
 
 ### <img src="./assets/mudae.png" height="25"> Mudae Selfbot
 > #### Automação Mudae
-- Zerar o Mudae Bot de forma automática
+- Projeto feito por hobbie, com o objetivo de **zerar o Mudae Bot** de forma automatizada (eu consegui 🥳)
 - Gerenciamento de **múltiplas contas**
-- Rolls automáticos a cada 3 horas
-- 💰 Projeto à venda por **R$30,00**
+- **Rolls automáticos** a cada 3 horas
+- Bem otimizado: roda **+100 bots** simultaneamente sem cair
+- Comando para transferir o harém de todas as contas para você, burlando o rate limit da Mudae
+- Painel de controle centralizado para gerenciar todos os bots
+- 💰 Projeto está a venda por **R$30,00 - [Entre em contato](https://discord.com/users/1458499667481591808).**
 
     </td>
   </tr>
@@ -86,7 +95,7 @@ Olá, sou conhecido como **Invisível**, ou para os mais próximos, **Inv.** Des
 
 ### <img src="./assets/piv-verify.png" height="25"> Piv Auth
 > #### API de Autenticação
-- Projeto para backup via OAuth2
+- Projeto para backup de membros via OAuth2
 - Interface bonita e interativa
 
     </td>
